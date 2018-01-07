@@ -1,5 +1,0 @@
-insert 12 32
-insert 14 65
-insert 65 23
-insert -43 67
-print
