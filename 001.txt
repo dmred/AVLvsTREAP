@@ -1,0 +1,11 @@
+--------------------------------------------------------
+|		AVL Correct				|
+--------------------------------------------------------
+Making tree:		OKAY
+First input:		OKAY
+Removing last:		OKAY
+Inserting many:		OKAY
+Searching:		OKAY
+MIN, MAX:		OKAY
+Removing node:		OKAY
+Removing leaves:	OKAY

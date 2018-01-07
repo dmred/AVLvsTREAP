@@ -1,0 +1,2 @@
+[AVL] Working with input file took me 0 clicks (0 seconds).
+[Treap] Working with input file took me took me 0 clicks (0 seconds).
